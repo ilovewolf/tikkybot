@@ -1,0 +1,1 @@
+throw '🅱laze e cacat';
